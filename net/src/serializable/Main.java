@@ -7,7 +7,7 @@ public class Main {
 		Socketmy sc = new Socketmy();
 		sc.Soccc("trytrtry");
 
-		// sc.sendT("54545654");
+		// sc.sendT("54554");
 	}
 
 }
